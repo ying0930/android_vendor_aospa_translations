@@ -51,7 +51,7 @@
 
     
     <string name="doze_on_charge_title">總是在充電時繼續</string>
-    <string name="doze_on_charge_summary">僅當設備插入時，請始終顯示時間和信息</string>
+    <string name="doze_on_charge_summary">僅當裝置插入時，請始終顯示時間和訊息</string>
 
     
     <string name="data_category_title">數據</string>
@@ -82,8 +82,8 @@
     <string name="screenshot_shutter_sound_title">截圖</string>
 
     
-    <string name="icon_manager_title">狀態欄圖標</string>
-    <string name="icon_manager_summary">開啟或關閉狀態欄圖標</string>
+    <string name="icon_manager_title">狀態欄圖示</string>
+    <string name="icon_manager_summary">開啟或關閉狀態欄圖示</string>
 
     
     <string name="notification_vibration_pattern_title">通知震動模式</string>
